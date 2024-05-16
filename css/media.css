@@ -1,0 +1,83 @@
+@media screen and (max-width:767px) {
+    
+}
+
+
+
+
+
+@media screen and (max-width:320px) {
+    .logo{
+        font-size: 25px;
+    }
+    .logo-img{
+        width: 25%;
+    }
+    .menu-icon{
+        color: #fff;
+    }
+    .navbar-nav{
+        padding: 20px 30px;
+        background-color: rgba(31, 32, 38, 0.95);
+    }
+
+    /* aboutusstart */
+    .aboutus{
+        padding: 50px 0;
+    }
+    .about-content{
+        margin-top: 30px;
+    }
+    .experience{
+        margin-bottom: 20px;
+    }
+    .about-para{
+        width: 100%;
+
+    }
+
+      /* aboutusend */
+        /* our service start */
+
+     .ourservices {
+        padding: 50px 0
+    }
+    .ourservice-para {
+        width: 100%;
+    }
+          /* our service end */
+
+          /* portfolio start */
+    .portfolio{
+        padding: 50px 0;
+    }
+    .tab-list{
+        display: block;
+        padding-left: 0;
+         
+     }
+     .tab{
+         margin-bottom: 18px;
+         display: inline-block;
+     }
+
+         /* portfolio end */
+    
+         /* ourexpertsstart */
+    .ourexperts{
+        padding: 50px 0;
+    }
+    .ourexpert-para {
+        width: 100%;
+    }
+
+
+
+
+
+
+
+              /* ourexpertsend */
+
+        }
+   
